@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.Demo.Test.TC_LoginTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 1.313 sec <<< FAILURE! - in com.Demo.Test.TC_LoginTest
+setUp(com.Demo.Test.TC_LoginTest)  Time elapsed: 0.679 sec  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'browser' is required by BeforeClass on method setUp but has not been marked @Optional or defined
+
+
